@@ -1,0 +1,302 @@
+{
+  "hash": "7b18c9f4bbb7a745c9d352c5c53931fe7f3f7589ea4d6f35e1416aa397b8b08e",
+  "ver": 2,
+  "vin_sz": 1,
+  "vout_sz": 26,
+  "size": 1136,
+  "weight": 3779,
+  "fee": 7560,
+  "relayed_by": "0.0.0.0",
+  "lock_time": 0,
+  "tx_index": 5020469194681672,
+  "double_spend": false,
+  "time": 1720547794,
+  "block_index": null,
+  "block_height": null,
+  "inputs": [
+    {
+      "sequence": 4294967293,
+      "witness": "0400483045022100dec2e645eb28e6a468828eeff0f3a42394a7ffff8c7928ced84b76f5a502fdeb0220323ab330f4aa4cdd22d1ce1a202b15588617178f85f0a4479c8e8710c96e38d10147304402201e5fee46c9245e1bbb0c4e43843af77d89257687bbe0ed295981c0fc9f2517c1022018b4e459db7d0e9461a2939540ec5e51e6371b7a929853955c0b3370f85892a001695221021d394c306f27f36c3e57ea8809bfcfede5d6ad5b7fd228fb2284ec25907cc049210345bc4251557ac3f802da853bfe0cf4fc7f80486ce10c268941edf4ab965115712102721001d3a504735f2a34997bfc232d9e764c91cc01a3719904c0f5cd5ad45c3e53ae",
+      "script": "",
+      "index": 0,
+      "prev_out": {
+        "type": 0,
+        "spent": true,
+        "value": 8824880994,
+        "spending_outpoints": [
+          {
+            "tx_index": 5020469194681672,
+            "n": 0
+          }
+        ],
+        "n": 26,
+        "tx_index": 6554682072238409,
+        "script": "00203643fdd2788f28745190ff4bb012c82ac55d9d2ee26a48bdc212d008b0120a50",
+        "addr": "bc1qxeplm5nc3u58g5vsla9mqykg9tz4m8fwuf4y30wzztgq3vqjpfgqtes6y0"
+      }
+    }
+  ],
+  "out": [
+    {
+      "type": 0,
+      "spent": false,
+      "value": 1045227,
+      "spending_outpoints": [],
+      "n": 0,
+      "tx_index": 5020469194681672,
+      "script": "76a9143d3216abf40975576a099ae7e616a285cb5e64ea88ac",
+      "addr": "16aaDv87RahvL8WMjtoDbFNGizCLLpLGZg"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 2616179,
+      "spending_outpoints": [],
+      "n": 1,
+      "tx_index": 5020469194681672,
+      "script": "0014d77d5d2c0a44f700a26b2c8176e98a7544a980b2",
+      "addr": "bc1q6a746tq2gnmspgnt9jqhd6v2w4z2nq9je2gf3c"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 4142788,
+      "spending_outpoints": [],
+      "n": 2,
+      "tx_index": 5020469194681672,
+      "script": "001450729855ef5d1d0f5d8d5abf3dea4843eb76c953",
+      "addr": "bc1q2pefs400t5ws7hvdt2lnm6jgg04hdj2n0tgmur"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 292378,
+      "spending_outpoints": [],
+      "n": 3,
+      "tx_index": 5020469194681672,
+      "script": "76a914b763cd9e367da5e7652ccaf0bf210f0c9fe6279188ac",
+      "addr": "1HigDZ3nPQgCp28u64dHysDPZaVZVG6Axn"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 7942259,
+      "spending_outpoints": [],
+      "n": 4,
+      "tx_index": 5020469194681672,
+      "script": "0014d89f9e6ab29bd5a700e37df5a19fa0039d4eb0c3",
+      "addr": "bc1qmz0eu64jn026wq8r0h66r8aqqww5avxrp8dyep"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 907279,
+      "spending_outpoints": [],
+      "n": 5,
+      "tx_index": 5020469194681672,
+      "script": "00142623a0419ce1a3d7abc695397b78f82553bd88d9",
+      "addr": "bc1qyc36qsvuux3a027xj5uhk78cy4fmmzxe6ulvuj"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 6968180,
+      "spending_outpoints": [],
+      "n": 6,
+      "tx_index": 5020469194681672,
+      "script": "a914d0fc49aa788e981a6d7643b97fde79b3e95ade1787",
+      "addr": "3Lk2hhrTwQxFydq2N2FmK1Tz1QaXk3tm2z"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 69093,
+      "spending_outpoints": [],
+      "n": 7,
+      "tx_index": 5020469194681672,
+      "script": "00147fb505951afce6acefac66de7e8bdd4e64c38648",
+      "addr": "bc1q076st9g6lnn2emavvm08az7afejv8pjg680ang"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 3242000,
+      "spending_outpoints": [],
+      "n": 8,
+      "tx_index": 5020469194681672,
+      "script": "a9141c25a3d6223975173045fe0b715e95b56bae6f1d87",
+      "addr": "34FqwBodr12vKtfiudBHaAqsf3VZb22FFP"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 35778,
+      "spending_outpoints": [],
+      "n": 9,
+      "tx_index": 5020469194681672,
+      "script": "0014d49c6b20d1b36b04aa2507c9e6ed988445b4deba",
+      "addr": "bc1q6jwxkgx3kd4sf239qly7dmvcs3zmfh46de4cl8"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 20700000,
+      "spending_outpoints": [],
+      "n": 10,
+      "tx_index": 5020469194681672,
+      "script": "0014890e7aa2cc6e36adf1ea4214445c82e64de03dce",
+      "addr": "bc1q3y884gkvdcm2mu02gg2yghyzuex7q0wwuq8tdx"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 102192084,
+      "spending_outpoints": [],
+      "n": 11,
+      "tx_index": 5020469194681672,
+      "script": "0014fda72077d9d51db5f876a510498fdd9e0a12f581",
+      "addr": "bc1qlknjqa7e65wmt7rk55gynr7anc9p9avpsqlkmt"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 456707,
+      "spending_outpoints": [],
+      "n": 12,
+      "tx_index": 5020469194681672,
+      "script": "00147087ce65bb621fde97663713b5acd7358d7ee8ec",
+      "addr": "bc1qwzruuedmvg0aa9mxxufmttxhxkxha68vdkz8tc"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 1164388,
+      "spending_outpoints": [],
+      "n": 13,
+      "tx_index": 5020469194681672,
+      "script": "00142b6fdd8fae3875c87df92b00256b8ddf3d341fcc",
+      "addr": "bc1q9dhamraw8p6usl0e9vqz26udmu7ng87vc8pt3x"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 35778,
+      "spending_outpoints": [],
+      "n": 14,
+      "tx_index": 5020469194681672,
+      "script": "001431f3f8607e71de035176eb4b3104823bf59aa6c4",
+      "addr": "bc1qx8elscr7w80qx5tkad9nzpyz806e4fky53c8jh"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 187900,
+      "spending_outpoints": [],
+      "n": 15,
+      "tx_index": 5020469194681672,
+      "script": "001497fab1c8f2603d5af99e65ae45457b921194f7e7",
+      "addr": "bc1qjlatrj8jvq7447v7vkhy23tmjggefal8y7f2e6"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 924353,
+      "spending_outpoints": [],
+      "n": 16,
+      "tx_index": 5020469194681672,
+      "script": "00142bd684073d7e43c051fff73af7c6b9a8112dbd85",
+      "addr": "bc1q90tggpea0epuq50l7ua0034e4qgjm0v9as5sex"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 557630,
+      "spending_outpoints": [],
+      "n": 17,
+      "tx_index": 5020469194681672,
+      "script": "001449738ff54ce10377dce95db9001f120c05b1568c",
+      "addr": "bc1qf9ecla2vuyph0h8ftkusq8cjpszmz45v59gp7a"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 38324,
+      "spending_outpoints": [],
+      "n": 18,
+      "tx_index": 5020469194681672,
+      "script": "a9142023569bd2ee3b0824532b93c728adfd9f53c76f87",
+      "addr": "34cwt2nFv99GWoGNpTnwzLpgZ6eqtyvhFx"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 1673609,
+      "spending_outpoints": [],
+      "n": 19,
+      "tx_index": 5020469194681672,
+      "script": "0014681f0ac84503e4ccb1a97a56d185eef27eba90f6",
+      "addr": "bc1qdq0s4jz9q0jvevdf0ftdrp0w7flt4y8k9rlz2j"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 155244,
+      "spending_outpoints": [],
+      "n": 20,
+      "tx_index": 5020469194681672,
+      "script": "0014d2fdafc67c0efc379db85aeb9824c2f84d9a6f67",
+      "addr": "bc1q6t76l3nupm7r08dctt4esfxzlpxe5mm8xszh5v"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 172665,
+      "spending_outpoints": [],
+      "n": 21,
+      "tx_index": 5020469194681672,
+      "script": "00142dad616d8037c47f67fd94efb5759f062c58b235",
+      "addr": "bc1q9kkkzmvqxlz87elajnhm2avlqck93v344d5v62"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 173805,
+      "spending_outpoints": [],
+      "n": 22,
+      "tx_index": 5020469194681672,
+      "script": "0014edf8d184ddc8f17d6d7e71c453aa0893dc27909e",
+      "addr": "bc1qahudrpxaerch6mt7w8z982sgj0wz0yy7lydurv"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 329736792,
+      "spending_outpoints": [],
+      "n": 23,
+      "tx_index": 5020469194681672,
+      "script": "0014b9565d8212aac650624475cb7fe2020dda9e602f",
+      "addr": "bc1qh9t9mqsj4tr9qcjywh9hlcszphdfucp00vget3"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 23314809,
+      "spending_outpoints": [],
+      "n": 24,
+      "tx_index": 5020469194681672,
+      "script": "76a914bfc88298e35990921b81b0a8a88a6a14d4e4b54788ac",
+      "addr": "1JV4GL4vBPfVyqLWTrfKCndoFhE7WG6Nrj"
+    },
+    {
+      "type": 0,
+      "spent": false,
+      "value": 8316128185,
+      "spending_outpoints": [],
+      "n": 25,
+      "tx_index": 5020469194681672,
+      "script": "0020527419b648877bb99c16d28832f0f3965565e1a1426fab3cfd964e119b68fa20",
+      "addr": "bc1q2f6pndjgsaamn8qk62yr9u8nje2ktcdpgfh6k08aje8prxmglgsqjvtvdc"
+    }
+  ],
+  "rbf": true
+}
